@@ -1,6 +1,6 @@
 # Hola, soy Juan “Miosio” Moisio 👋
 
-Estudiante de ngenieria electrónico y de sistemas. Construyo puentes entre **hardware y software**: chatbots que resuelven problemas de clientes, integraciones con dispositivos (contadoras/validadores), tableros de métricas en Raspberry Pi, y proyectos académicos de **Sistemas Operativos**.  
+Estudiante de ingenieria electrónica y de sistemas. Construyo puentes entre **hardware y software**: chatbots que resuelven problemas de clientes, integraciones con dispositivos (contadoras/validadores), tableros de métricas en Raspberry Pi, y proyectos académicos de **Sistemas Operativos**.  
 Explorando **Web3** con Solidity/Hardhat para casos reales (tokens, trueque OTC, dApps educativas).
 
 ---
