@@ -16,6 +16,7 @@ Firmware C/C++ con FreeRTOS · IA 100% local en el edge · Bots que atienden cli
 
 ### 🔭 En qué estoy hoy
 
+- 🛒 **Plataforma de tótems de self-service / self-checkout** (SaaS multi-tenant, en producción en retail y estaciones de servicio): tótem offline-first (Tauri) con catálogo, carrito, **pago QR, tarjeta vía los principales posnets y efectivo**, ticket fiscal y publicidad en pantalla; backoffice (Next.js) para stock, precios, promociones, ventas y reportes; API NestJS multi-tenant con RBAC y tiempo real.
 - 📟 **Firmware embebido en serio** (C/C++, FreeRTOS, PlatformIO): una flota de proyectos sobre ESP32/S3/C3 — etiquetas electrónicas de precio con panel central y **OTA**, grabador de audio I2S con transcripción por IA, BMS, GPS tracker, RFID y biometría (huella), control de motores NEMA y cámaras.
 - 🏭 **Hardware industrial de punta a punta**: firmware de placas IO propias (protocolo serie, sensores, cerraduras, shutters), **diseño de PCB**, drivers e integración con contadoras y validadores de billetes (C#/.NET 8, XFS, Raspberry Pi + Docker).
 - 🗣️ **IA local de punta a punta**: tótem de self-checkout **por voz** para fast food — Whisper (STT) + LLM local vía Ollama + Piper (TTS), **sin internet ni costo por pedido** — y un driver táctil USB propio para macOS con gestos estilo celular.
