@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="106" viewBox="0 0 400 106" role="img">
+  <rect width="400" height="106" rx="10" fill="#1a1b27"/>
+  <text x="24" y="34" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#70a5fd">KipuBankV4</text>
+  <text x="24" y="62" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5"> </text>
+  <circle cx="29" cy="84" r="5" fill="#AA6746"/>
+  <text x="42" y="88" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#565f89">Solidity</text>
+  <text x="160" y="88" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#565f89">★ 0   ⑂ 0</text>
+</svg>

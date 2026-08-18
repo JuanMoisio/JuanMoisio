@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="156" viewBox="0 0 400 156" role="img">
+  <rect width="400" height="156" rx="10" fill="#1a1b27"/>
+  <text x="24" y="34" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#70a5fd">Stats de JuanMoisio</text>
+  <text x="24" y="64" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Contribuciones (último año):</text>
+  <text x="330" y="64" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#38bdae">45</text>
+  <text x="24" y="88" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Commits (último año):</text>
+  <text x="330" y="88" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#38bdae">38</text>
+  <text x="24" y="112" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Pull requests:</text>
+  <text x="330" y="112" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#38bdae">72</text>
+  <text x="24" y="136" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c0caf5">Repos públicos:</text>
+  <text x="330" y="136" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#38bdae">9</text>
+</svg>

@@ -41,11 +41,11 @@ Bots que atienden clientes reales · IA 100% local en el edge · Firmware ESP32 
 
 <div align="center">
 
-[![KipuBankV4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=KipuBankV4&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/KipuBankV4)
-[![ESP32Proyects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=ESP32Proyects&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/ESP32Proyects)
+[![KipuBankV4](assets/pin-KipuBankV4.svg)](https://github.com/JuanMoisio/KipuBankV4)
+[![ESP32Proyects](assets/pin-ESP32Proyects.svg)](https://github.com/JuanMoisio/ESP32Proyects)
 
-[![MQTT_ESP32_SERVER](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=MQTT_ESP32_SERVER&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/MQTT_ESP32_SERVER)
-[![ServerPQ](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=ServerPQ&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/ServerPQ)
+[![MQTT_ESP32_SERVER](assets/pin-MQTT_ESP32_SERVER.svg)](https://github.com/JuanMoisio/MQTT_ESP32_SERVER)
+[![ServerPQ](assets/pin-ServerPQ.svg)](https://github.com/JuanMoisio/ServerPQ)
 
 </div>
 
@@ -57,10 +57,10 @@ Bots que atienden clientes reales · IA 100% local en el edge · Firmware ESP32 
 
 <div align="center">
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JuanMoisio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanMoisio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](assets/stats.svg)
+![Top langs](assets/top-langs.svg)
 
-![Streak](https://streak-stats.demolab.com?user=JuanMoisio&theme=tokyonight&hide_border=true)
+<sub>Tarjetas generadas por un workflow propio — se actualizan solas todos los días.</sub>
 
 </div>
 
