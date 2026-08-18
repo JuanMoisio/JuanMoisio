@@ -41,11 +41,11 @@ Bots que atienden clientes reales · IA 100% local en el edge · Firmware ESP32 
 
 <div align="center">
 
-[![KipuBankV4](https://github-readme-stats.vercel.app/api/pin/?username=JuanMoisio&repo=KipuBankV4&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/KipuBankV4)
-[![ESP32Proyects](https://github-readme-stats.vercel.app/api/pin/?username=JuanMoisio&repo=ESP32Proyects&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/ESP32Proyects)
+[![KipuBankV4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=KipuBankV4&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/KipuBankV4)
+[![ESP32Proyects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=ESP32Proyects&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/ESP32Proyects)
 
-[![MQTT_ESP32_SERVER](https://github-readme-stats.vercel.app/api/pin/?username=JuanMoisio&repo=MQTT_ESP32_SERVER&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/MQTT_ESP32_SERVER)
-[![ServerPQ](https://github-readme-stats.vercel.app/api/pin/?username=JuanMoisio&repo=ServerPQ&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/ServerPQ)
+[![MQTT_ESP32_SERVER](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=MQTT_ESP32_SERVER&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/MQTT_ESP32_SERVER)
+[![ServerPQ](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuanMoisio&repo=ServerPQ&theme=tokyonight&hide_border=true)](https://github.com/JuanMoisio/ServerPQ)
 
 </div>
 
@@ -57,8 +57,8 @@ Bots que atienden clientes reales · IA 100% local en el edge · Firmware ESP32 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanMoisio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMoisio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JuanMoisio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuanMoisio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![Streak](https://streak-stats.demolab.com?user=JuanMoisio&theme=tokyonight&hide_border=true)
 
