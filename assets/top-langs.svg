@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="184" viewBox="0 0 400 184" role="img">
   <rect width="400" height="184" rx="10" fill="#1a1b27"/>
   <text x="24" y="34" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#70a5fd">Lenguajes más usados (repos públicos)</text>
-  <rect x="24.0" y="52" width="164.3" height="8" rx="2" fill="#f34b7d"/>
-  <rect x="188.3" y="52" width="90.0" height="8" rx="2" fill="#AA6746"/>
-  <rect x="278.3" y="52" width="68.7" height="8" rx="2" fill="#3572A5"/>
-  <rect x="347.0" y="52" width="10.3" height="8" rx="2" fill="#f1e05a"/>
-  <rect x="357.3" y="52" width="7.7" height="8" rx="2" fill="#e34c26"/>
-  <rect x="365.0" y="52" width="6.0" height="8" rx="2" fill="#3178c6"/>
-  <rect x="371.0" y="52" width="2.9" height="8" rx="2" fill="#663399"/>
-  <rect x="373.8" y="52" width="2.2" height="8" rx="2" fill="#012456"/>
+  <rect x="24.0" y="52" width="177.5" height="8" rx="2" fill="#f34b7d"/>
+  <rect x="201.5" y="52" width="81.1" height="8" rx="2" fill="#AA6746"/>
+  <rect x="282.6" y="52" width="64.9" height="8" rx="2" fill="#3572A5"/>
+  <rect x="347.6" y="52" width="9.3" height="8" rx="2" fill="#f1e05a"/>
+  <rect x="356.8" y="52" width="7.0" height="8" rx="2" fill="#e34c26"/>
+  <rect x="363.8" y="52" width="5.4" height="8" rx="2" fill="#3178c6"/>
+  <rect x="369.2" y="52" width="4.2" height="8" rx="2" fill="#012456"/>
+  <rect x="373.4" y="52" width="2.6" height="8" rx="2" fill="#663399"/>
   <circle cx="29" cy="80" r="5" fill="#f34b7d"/>
-  <text x="42" y="84" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">C++ <tspan fill="#565f89">46.7%</tspan></text>
+  <text x="42" y="84" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">C++ <tspan fill="#565f89">50.4%</tspan></text>
   <circle cx="219" cy="80" r="5" fill="#AA6746"/>
-  <text x="232" y="84" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">Solidity <tspan fill="#565f89">25.6%</tspan></text>
+  <text x="232" y="84" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">Solidity <tspan fill="#565f89">23.1%</tspan></text>
   <circle cx="29" cy="104" r="5" fill="#3572A5"/>
-  <text x="42" y="108" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">Python <tspan fill="#565f89">19.5%</tspan></text>
+  <text x="42" y="108" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">Python <tspan fill="#565f89">18.4%</tspan></text>
   <circle cx="219" cy="104" r="5" fill="#f1e05a"/>
-  <text x="232" y="108" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">JavaScript <tspan fill="#565f89">2.9%</tspan></text>
+  <text x="232" y="108" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">JavaScript <tspan fill="#565f89">2.6%</tspan></text>
   <circle cx="29" cy="128" r="5" fill="#e34c26"/>
-  <text x="42" y="132" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">HTML <tspan fill="#565f89">2.2%</tspan></text>
+  <text x="42" y="132" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">HTML <tspan fill="#565f89">2.0%</tspan></text>
   <circle cx="219" cy="128" r="5" fill="#3178c6"/>
-  <text x="232" y="132" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">TypeScript <tspan fill="#565f89">1.7%</tspan></text>
-  <circle cx="29" cy="152" r="5" fill="#663399"/>
-  <text x="42" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">CSS <tspan fill="#565f89">0.8%</tspan></text>
-  <circle cx="219" cy="152" r="5" fill="#012456"/>
-  <text x="232" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">PowerShell <tspan fill="#565f89">0.6%</tspan></text>
+  <text x="232" y="132" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">TypeScript <tspan fill="#565f89">1.5%</tspan></text>
+  <circle cx="29" cy="152" r="5" fill="#012456"/>
+  <text x="42" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">PowerShell <tspan fill="#565f89">1.2%</tspan></text>
+  <circle cx="219" cy="152" r="5" fill="#663399"/>
+  <text x="232" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" fill="#c0caf5">CSS <tspan fill="#565f89">0.7%</tspan></text>
 </svg>
